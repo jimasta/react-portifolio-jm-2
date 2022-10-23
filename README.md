@@ -7,12 +7,7 @@ Use-o para mostrar seu trabalho, depoimentos e outras informações aos clientes
 ## Construido com 
 Nesta seção voce encontrara todos os frameworks/biblioteca usados neste projeto.
 
-* [![ Próximo ][Próximo.js]][Próximo-url]
 * [![ React ][React.js]][React-url]
-* [![ Vue ][Vue.js]][Vue-url]
-* [![ Angular ][Angular.io]][Angular-url]
-* [![ Svelte ][Svelte.dev]][Svelte-url]
-* [![ Laravel ][Laravel.com]][Laravel-url]
 * [![ Bootstrap ][Bootstrap.com]][Bootstrap-url]
 * [![ JQuery ][JQuery.com]][JQuery-url]
 
@@ -24,6 +19,10 @@ Para colocar uma cópia local em execução, siga estas etapas de exemplo simple
 ###  Pré -requisitos
 
 Este é um exemplo de como listar as coisas que você precisa para usar o software e como instalá-las.
+* node
+  ```sh
+  npm install npm@latest -g
+  ```
 * npm
   ```sh
   npm install npm@latest -g
@@ -40,10 +39,6 @@ _Abaixo está um exemplo de como você pode instruir seu público sobre como ins
 3. Instale os pacotes NPM
    ```sh
    npm instalar
-   ```
-4. Insira sua API em `config.js`
-   ``` js
-   const  API_KEY  =  ' DIGITE SUA API ' ;
    ```
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
