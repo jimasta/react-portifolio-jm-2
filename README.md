@@ -9,12 +9,8 @@ Nesta seção voce encontrara todos os frameworks/biblioteca usados neste projet
 
 * [![ Próximo ][Próximo.js]][Próximo-url]
 * [![ React ][React.js]][React-url]
-* [![ Vue ][Vue.js]][Vue-url]
-* [![ Angular ][Angular.io]][Angular-url]
-* [![ Svelte ][Svelte.dev]][Svelte-url]
-* [![ Laravel ][Laravel.com]][Laravel-url]
 * [![ Bootstrap ][Bootstrap.com]][Bootstrap-url]
-* [![ JQuery ][JQuery.com]][JQuery-url]
+
 
 ##  Começando
 
@@ -47,6 +43,7 @@ _Abaixo está um exemplo de como você pode instruir seu público sobre como ins
    ```
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[typescript]:https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
